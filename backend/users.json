@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "username": "mriwa",
+    "password": "mriwa12324",
+    "role": "patient"
+  },
+  {
+    "username": "zaina",
+    "password": "1234",
+    "role": "doctor"
+  },
+  {
+    "username": "patient2",
+    "password": "1234",
+    "role": "patient"
+  },
+  {
+    "username": "ADMIN_Chaimaa",
+    "password": "1234",
+    "role": "admin"
+  },
+  {
+    "username": "amira",
+    "password": "1234",
+    "role": "doctor"
+  }
+]
